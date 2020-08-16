@@ -1,0 +1,25 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "\"Try remove old 1st: \"",
+                "Type": 182460591,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "\"Removed 3rd&4th: \"",
+                "Type": 182460591,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "Commit id's": [
+            "f657ff559ed0950ae7b712f5d56e1224d394107e"
+        ]
+    }
+]

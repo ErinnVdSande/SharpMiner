@@ -1,0 +1,180 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "",
+                "Type": 3127797,
+                "Children": [
+                    [
+                        {
+                            "Label": "",
+                            "Type": 3045982,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": -40060704,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "",
+                                                    "Type": -1589682499,
+                                                    "Children": [
+                                                        [
+                                                            {
+                                                                "Label": "",
+                                                                "Type": 3127797,
+                                                                "Children": [
+                                                                    [
+                                                                        {
+                                                                            "Label": "?",
+                                                                            "Type": 17200,
+                                                                            "Children": [
+                                                                                
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                ]
+                                                            }
+                                                        ]
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": 3373707,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "RemoveAt",
+                                                    "Type": 3373707,
+                                                    "Children": [
+                                                        
+                                                    ]
+                                                }
+                                            ],
+                                            [
+                                                {
+                                                    "Label": ".",
+                                                    "Type": -500553564,
+                                                    "Children": [
+                                                        
+                                                    ]
+                                                }
+                                            ],
+                                            [
+                                                {
+                                                    "Label": "listOfNumbers",
+                                                    "Type": 3373707,
+                                                    "Children": [
+                                                        
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "",
+                "Type": 3127797,
+                "Children": [
+                    [
+                        {
+                            "Label": "",
+                            "Type": 3045982,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": -40060704,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "",
+                                                    "Type": -1589682499,
+                                                    "Children": [
+                                                        [
+                                                            {
+                                                                "Label": "",
+                                                                "Type": 3127797,
+                                                                "Children": [
+                                                                    [
+                                                                        {
+                                                                            "Label": "?",
+                                                                            "Type": 17200,
+                                                                            "Children": [
+                                                                                
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                ]
+                                                            }
+                                                        ]
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": 3373707,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "RemoveAt",
+                                                    "Type": 3373707,
+                                                    "Children": [
+                                                        
+                                                    ]
+                                                }
+                                            ],
+                                            [
+                                                {
+                                                    "Label": ".",
+                                                    "Type": -500553564,
+                                                    "Children": [
+                                                        
+                                                    ]
+                                                }
+                                            ],
+                                            [
+                                                {
+                                                    "Label": "listOfStrings",
+                                                    "Type": 3373707,
+                                                    "Children": [
+                                                        
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "Left": 1178899,
+        "Right": 835,
+        "Commit id's": [
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92"
+        ]
+    }
+]

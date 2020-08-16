@@ -1,0 +1,60 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "",
+                "Type": 3237136,
+                "Children": [
+                    [
+                        {
+                            "Label": "",
+                            "Type": 3127797,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "?",
+                                        "Type": 17200,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "",
+                "Type": 3237136,
+                "Children": [
+                    [
+                        {
+                            "Label": "",
+                            "Type": 3127797,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "?",
+                                        "Type": 27200,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "Left": 173,
+        "Right": 987,
+        "Commit id's": [
+            "f657ff559ed0950ae7b712f5d56e1224d394107e",
+            "6a9401755b133ae057b3d500337eae868367a5bb"
+        ]
+    }
+]

@@ -1,0 +1,1554 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "",
+                "Type": 1380938712,
+                "Children": [
+                    [
+                        {
+                            "Label": "",
+                            "Type": 93832333,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": 490731474,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "",
+                                                    "Type": 3127797,
+                                                    "Children": [
+                                                        [
+                                                            {
+                                                                "Label": "count",
+                                                                "Type": 3373707,
+                                                                "Children": [
+                                                                    
+                                                                ]
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "Label": "++",
+                                                                "Type": -500553564,
+                                                                "Children": [
+                                                                    
+                                                                ]
+                                                            }
+                                                        ]
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": "// Increment the count.",
+                                        "Type": 950398559,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": 3357,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "",
+                                                    "Type": 3116345,
+                                                    "Children": [
+                                                        [
+                                                            {
+                                                                "Label": "",
+                                                                "Type": 93832333,
+                                                                "Children": [
+                                                                    [
+                                                                        {
+                                                                            "Label": "",
+                                                                            "Type": 490731474,
+                                                                            "Children": [
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "",
+                                                                                        "Type": 3127797,
+                                                                                        "Children": [
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "newNode",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "=",
+                                                                                                    "Type": -500553564,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "lastNode",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    [
+                                                                        {
+                                                                            "Label": "",
+                                                                            "Type": 490731474,
+                                                                            "Children": [
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "",
+                                                                                        "Type": 3127797,
+                                                                                        "Children": [
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "currentNode",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "=",
+                                                                                                    "Type": -500553564,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "Previous",
+                                                                                                                "Type": 3373707,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ],
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": ".",
+                                                                                                                "Type": -500553564,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ],
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "newNode",
+                                                                                                                "Type": 3373707,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    [
+                                                                        {
+                                                                            "Label": "",
+                                                                            "Type": 490731474,
+                                                                            "Children": [
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "",
+                                                                                        "Type": 3127797,
+                                                                                        "Children": [
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "newNode",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "=",
+                                                                                                    "Type": -500553564,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "Next",
+                                                                                                                "Type": 3373707,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ],
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": ".",
+                                                                                                                "Type": -500553564,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ],
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "currentNode",
+                                                                                                                "Type": 3373707,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    [
+                                                                        {
+                                                                            "Label": "",
+                                                                            "Type": 425139773,
+                                                                            "Children": [
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "",
+                                                                                        "Type": 3079338,
+                                                                                        "Children": [
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "",
+                                                                                                    "Type": 3237136,
+                                                                                                    "Children": [
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "",
+                                                                                                                "Type": 3127797,
+                                                                                                                "Children": [
+                                                                                                                    [
+                                                                                                                        {
+                                                                                                                            "Label": "lastNode",
+                                                                                                                            "Type": 3373707,
+                                                                                                                            "Children": [
+                                                                                                                                
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "currentNode",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "",
+                                                                                                    "Type": 3575610,
+                                                                                                    "Children": [
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "var",
+                                                                                                                "Type": 3373707,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                ]
+                                                            }
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            [
+                                                {
+                                                    "Label": "",
+                                                    "Type": 3558941,
+                                                    "Children": [
+                                                        [
+                                                            {
+                                                                "Label": "",
+                                                                "Type": 93832333,
+                                                                "Children": [
+                                                                    [
+                                                                        {
+                                                                            "Label": "",
+                                                                            "Type": 490731474,
+                                                                            "Children": [
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "",
+                                                                                        "Type": 3127797,
+                                                                                        "Children": [
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "newNode",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "=",
+                                                                                                    "Type": -500553564,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "lastNode",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "=",
+                                                                                                    "Type": -500553564,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "firstNode",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                ]
+                                                            }
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            [
+                                                {
+                                                    "Label": "",
+                                                    "Type": -861311717,
+                                                    "Children": [
+                                                        [
+                                                            {
+                                                                "Label": "",
+                                                                "Type": 3127797,
+                                                                "Children": [
+                                                                    [
+                                                                        {
+                                                                            "Label": "null",
+                                                                            "Type": 182460591,
+                                                                            "Children": [
+                                                                                
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    [
+                                                                        {
+                                                                            "Label": "==",
+                                                                            "Type": -500553564,
+                                                                            "Children": [
+                                                                                
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    [
+                                                                        {
+                                                                            "Label": "firstNode",
+                                                                            "Type": 3373707,
+                                                                            "Children": [
+                                                                                
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                ]
+                                                            }
+                                                        ]
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": 425139773,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "",
+                                                    "Type": 3079338,
+                                                    "Children": [
+                                                        [
+                                                            {
+                                                                "Label": "",
+                                                                "Type": 3237136,
+                                                                "Children": [
+                                                                    [
+                                                                        {
+                                                                            "Label": "",
+                                                                            "Type": 3127797,
+                                                                            "Children": [
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "",
+                                                                                        "Type": 3045982,
+                                                                                        "Children": [
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "",
+                                                                                                    "Type": -40060704,
+                                                                                                    "Children": [
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "",
+                                                                                                                "Type": -1589682499,
+                                                                                                                "Children": [
+                                                                                                                    [
+                                                                                                                        {
+                                                                                                                            "Label": "",
+                                                                                                                            "Type": 3127797,
+                                                                                                                            "Children": [
+                                                                                                                                [
+                                                                                                                                    {
+                                                                                                                                        "Label": "dataItem",
+                                                                                                                                        "Type": 3373707,
+                                                                                                                                        "Children": [
+                                                                                                                                            
+                                                                                                                                        ]
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "",
+                                                                                                                "Type": -40060704,
+                                                                                                                "Children": [
+                                                                                                                    [
+                                                                                                                        {
+                                                                                                                            "Label": "",
+                                                                                                                            "Type": -1589682499,
+                                                                                                                            "Children": [
+                                                                                                                                [
+                                                                                                                                    {
+                                                                                                                                        "Label": "T",
+                                                                                                                                        "Type": 3373707,
+                                                                                                                                        "Children": [
+                                                                                                                                            
+                                                                                                                                        ]
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ],
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "DLListNode",
+                                                                                                                "Type": 3373707,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        ]
+                                                                                    }
+                                                                                ],
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "new",
+                                                                                        "Type": -500553564,
+                                                                                        "Children": [
+                                                                                            
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                ]
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "Label": "newNode",
+                                                                "Type": 3373707,
+                                                                "Children": [
+                                                                    
+                                                                ]
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "Label": "",
+                                                                "Type": 3575610,
+                                                                "Children": [
+                                                                    [
+                                                                        {
+                                                                            "Label": "",
+                                                                            "Type": 3373707,
+                                                                            "Children": [
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "",
+                                                                                        "Type": -40060704,
+                                                                                        "Children": [
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "",
+                                                                                                    "Type": -1589682499,
+                                                                                                    "Children": [
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "T",
+                                                                                                                "Type": 3373707,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        ]
+                                                                                    }
+                                                                                ],
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "DLListNode",
+                                                                                        "Type": 3373707,
+                                                                                        "Children": [
+                                                                                            
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                ]
+                                                            }
+                                                        ]
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "",
+                            "Type": 1133090676,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": 1954460585,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "",
+                                                    "Type": 3079338,
+                                                    "Children": [
+                                                        [
+                                                            {
+                                                                "Label": "dataItem",
+                                                                "Type": 3373707,
+                                                                "Children": [
+                                                                    
+                                                                ]
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "Label": "",
+                                                                "Type": 3575610,
+                                                                "Children": [
+                                                                    [
+                                                                        {
+                                                                            "Label": "T",
+                                                                            "Type": 3373707,
+                                                                            "Children": [
+                                                                                
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                ]
+                                                            }
+                                                        ]
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "Append",
+                            "Type": 3373707,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "",
+                            "Type": 3575610,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "void",
+                                        "Type": 3373707,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "public",
+                            "Type": -1694614082,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "",
+                "Type": 1380938712,
+                "Children": [
+                    [
+                        {
+                            "Label": "",
+                            "Type": 93832333,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": 490731474,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "",
+                                                    "Type": 3127797,
+                                                    "Children": [
+                                                        [
+                                                            {
+                                                                "Label": "Count",
+                                                                "Type": 3373707,
+                                                                "Children": [
+                                                                    
+                                                                ]
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "Label": "++",
+                                                                "Type": -500553564,
+                                                                "Children": [
+                                                                    
+                                                                ]
+                                                            }
+                                                        ]
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": "// Increment the count.",
+                                        "Type": 950398559,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": 3357,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "",
+                                                    "Type": 3116345,
+                                                    "Children": [
+                                                        [
+                                                            {
+                                                                "Label": "",
+                                                                "Type": 93832333,
+                                                                "Children": [
+                                                                    [
+                                                                        {
+                                                                            "Label": "",
+                                                                            "Type": 490731474,
+                                                                            "Children": [
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "",
+                                                                                        "Type": 3127797,
+                                                                                        "Children": [
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "newNode",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "=",
+                                                                                                    "Type": -500553564,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "lastNode",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    [
+                                                                        {
+                                                                            "Label": "",
+                                                                            "Type": 490731474,
+                                                                            "Children": [
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "",
+                                                                                        "Type": 3127797,
+                                                                                        "Children": [
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "currentNode",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "=",
+                                                                                                    "Type": -500553564,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "Previous",
+                                                                                                                "Type": 3373707,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ],
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": ".",
+                                                                                                                "Type": -500553564,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ],
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "newNode",
+                                                                                                                "Type": 3373707,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    [
+                                                                        {
+                                                                            "Label": "",
+                                                                            "Type": 490731474,
+                                                                            "Children": [
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "",
+                                                                                        "Type": 3127797,
+                                                                                        "Children": [
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "newNode",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "=",
+                                                                                                    "Type": -500553564,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "Next",
+                                                                                                                "Type": 3373707,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ],
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": ".",
+                                                                                                                "Type": -500553564,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ],
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "currentNode",
+                                                                                                                "Type": 3373707,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    [
+                                                                        {
+                                                                            "Label": "",
+                                                                            "Type": 425139773,
+                                                                            "Children": [
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "",
+                                                                                        "Type": 3079338,
+                                                                                        "Children": [
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "",
+                                                                                                    "Type": 3237136,
+                                                                                                    "Children": [
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "",
+                                                                                                                "Type": 3127797,
+                                                                                                                "Children": [
+                                                                                                                    [
+                                                                                                                        {
+                                                                                                                            "Label": "lastNode",
+                                                                                                                            "Type": 3373707,
+                                                                                                                            "Children": [
+                                                                                                                                
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "currentNode",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "",
+                                                                                                    "Type": 3575610,
+                                                                                                    "Children": [
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "var",
+                                                                                                                "Type": 3373707,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    [
+                                                                        {
+                                                                            "Label": "",
+                                                                            "Type": 3357,
+                                                                            "Children": [
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "",
+                                                                                        "Type": 3558941,
+                                                                                        "Children": [
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "",
+                                                                                                    "Type": 93832333,
+                                                                                                    "Children": [
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "",
+                                                                                                                "Type": 490731474,
+                                                                                                                "Children": [
+                                                                                                                    [
+                                                                                                                        {
+                                                                                                                            "Label": "",
+                                                                                                                            "Type": 3127797,
+                                                                                                                            "Children": [
+                                                                                                                                [
+                                                                                                                                    {
+                                                                                                                                        "Label": "",
+                                                                                                                                        "Type": 3045982,
+                                                                                                                                        "Children": [
+                                                                                                                                            [
+                                                                                                                                                {
+                                                                                                                                                    "Label": "",
+                                                                                                                                                    "Type": -40060704,
+                                                                                                                                                    "Children": [
+                                                                                                                                                        
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ],
+                                                                                                                                            [
+                                                                                                                                                {
+                                                                                                                                                    "Label": "UpdateLastNode",
+                                                                                                                                                    "Type": 3373707,
+                                                                                                                                                    "Children": [
+                                                                                                                                                        
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        ]
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        ]
+                                                                                    }
+                                                                                ],
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "",
+                                                                                        "Type": -861311717,
+                                                                                        "Children": [
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "",
+                                                                                                    "Type": 3127797,
+                                                                                                    "Children": [
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "null",
+                                                                                                                "Type": 182460591,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ],
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "==",
+                                                                                                                "Type": -500553564,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ],
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "lastNode",
+                                                                                                                "Type": 3373707,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                ]
+                                                            }
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            [
+                                                {
+                                                    "Label": "",
+                                                    "Type": 3558941,
+                                                    "Children": [
+                                                        [
+                                                            {
+                                                                "Label": "",
+                                                                "Type": 93832333,
+                                                                "Children": [
+                                                                    [
+                                                                        {
+                                                                            "Label": "",
+                                                                            "Type": 490731474,
+                                                                            "Children": [
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "",
+                                                                                        "Type": 3127797,
+                                                                                        "Children": [
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "newNode",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "=",
+                                                                                                    "Type": -500553564,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "lastNode",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "=",
+                                                                                                    "Type": -500553564,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "firstNode",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                ]
+                                                            }
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            [
+                                                {
+                                                    "Label": "",
+                                                    "Type": -861311717,
+                                                    "Children": [
+                                                        [
+                                                            {
+                                                                "Label": "",
+                                                                "Type": 3127797,
+                                                                "Children": [
+                                                                    [
+                                                                        {
+                                                                            "Label": "null",
+                                                                            "Type": 182460591,
+                                                                            "Children": [
+                                                                                
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    [
+                                                                        {
+                                                                            "Label": "==",
+                                                                            "Type": -500553564,
+                                                                            "Children": [
+                                                                                
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    [
+                                                                        {
+                                                                            "Label": "firstNode",
+                                                                            "Type": 3373707,
+                                                                            "Children": [
+                                                                                
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                ]
+                                                            }
+                                                        ]
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": 425139773,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "",
+                                                    "Type": 3079338,
+                                                    "Children": [
+                                                        [
+                                                            {
+                                                                "Label": "",
+                                                                "Type": 3237136,
+                                                                "Children": [
+                                                                    [
+                                                                        {
+                                                                            "Label": "",
+                                                                            "Type": 3127797,
+                                                                            "Children": [
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "",
+                                                                                        "Type": 3045982,
+                                                                                        "Children": [
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "",
+                                                                                                    "Type": -40060704,
+                                                                                                    "Children": [
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "",
+                                                                                                                "Type": -1589682499,
+                                                                                                                "Children": [
+                                                                                                                    [
+                                                                                                                        {
+                                                                                                                            "Label": "",
+                                                                                                                            "Type": 3127797,
+                                                                                                                            "Children": [
+                                                                                                                                [
+                                                                                                                                    {
+                                                                                                                                        "Label": "dataItem",
+                                                                                                                                        "Type": 3373707,
+                                                                                                                                        "Children": [
+                                                                                                                                            
+                                                                                                                                        ]
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "",
+                                                                                                    "Type": 3373707,
+                                                                                                    "Children": [
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "",
+                                                                                                                "Type": -40060704,
+                                                                                                                "Children": [
+                                                                                                                    [
+                                                                                                                        {
+                                                                                                                            "Label": "",
+                                                                                                                            "Type": -1589682499,
+                                                                                                                            "Children": [
+                                                                                                                                [
+                                                                                                                                    {
+                                                                                                                                        "Label": "T",
+                                                                                                                                        "Type": 3373707,
+                                                                                                                                        "Children": [
+                                                                                                                                            
+                                                                                                                                        ]
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ],
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "DLListNode",
+                                                                                                                "Type": 3373707,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        ]
+                                                                                    }
+                                                                                ],
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "new",
+                                                                                        "Type": -500553564,
+                                                                                        "Children": [
+                                                                                            
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                ]
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "Label": "newNode",
+                                                                "Type": 3373707,
+                                                                "Children": [
+                                                                    
+                                                                ]
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "Label": "",
+                                                                "Type": 3575610,
+                                                                "Children": [
+                                                                    [
+                                                                        {
+                                                                            "Label": "",
+                                                                            "Type": 3373707,
+                                                                            "Children": [
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "",
+                                                                                        "Type": -40060704,
+                                                                                        "Children": [
+                                                                                            [
+                                                                                                {
+                                                                                                    "Label": "",
+                                                                                                    "Type": -1589682499,
+                                                                                                    "Children": [
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Label": "T",
+                                                                                                                "Type": 3373707,
+                                                                                                                "Children": [
+                                                                                                                    
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        ]
+                                                                                    }
+                                                                                ],
+                                                                                [
+                                                                                    {
+                                                                                        "Label": "DLListNode",
+                                                                                        "Type": 3373707,
+                                                                                        "Children": [
+                                                                                            
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                ]
+                                                            }
+                                                        ]
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "",
+                            "Type": 1133090676,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": 1954460585,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "",
+                                                    "Type": 3079338,
+                                                    "Children": [
+                                                        [
+                                                            {
+                                                                "Label": "dataItem",
+                                                                "Type": 3373707,
+                                                                "Children": [
+                                                                    
+                                                                ]
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "Label": "",
+                                                                "Type": 3575610,
+                                                                "Children": [
+                                                                    [
+                                                                        {
+                                                                            "Label": "T",
+                                                                            "Type": 3373707,
+                                                                            "Children": [
+                                                                                
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                ]
+                                                            }
+                                                        ]
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "Append",
+                            "Type": 3373707,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "",
+                            "Type": 3575610,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "void",
+                                        "Type": 3373707,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "public",
+                            "Type": -1694614082,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "Commit id's": [
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92"
+        ]
+    }
+]

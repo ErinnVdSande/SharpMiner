@@ -1,0 +1,28 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "///<returns>True if removed successfully, false otherwise.</returns>",
+                "Type": 950398559,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "///<summary>",
+                "Type": 950398559,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "Left": 200,
+        "Right": 377,
+        "Commit id's": [
+            "f657ff559ed0950ae7b712f5d56e1224d394107e",
+            "045ef0f6b030e274ee17fdee1c2c97eae4b5816f"
+        ]
+    }
+]

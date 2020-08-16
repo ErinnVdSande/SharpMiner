@@ -1,0 +1,134 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "",
+                "Type": 3079338,
+                "Children": [
+                    [
+                        {
+                            "Label": "",
+                            "Type": 3237136,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": 3127797,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "0",
+                                                    "Type": 182460591,
+                                                    "Children": [
+                                                        
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "count",
+                            "Type": 3373707,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "",
+                            "Type": 3575610,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "int",
+                                        "Type": 3373707,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "private",
+                            "Type": -1694614082,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "",
+                "Type": 3079338,
+                "Children": [
+                    [
+                        {
+                            "Label": "",
+                            "Type": 3237136,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": 3127797,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "0",
+                                                    "Type": 182460591,
+                                                    "Children": [
+                                                        
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "i",
+                            "Type": 3373707,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "",
+                            "Type": 3575610,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "int",
+                                        "Type": 3373707,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "Commit id's": [
+            "f657ff559ed0950ae7b712f5d56e1224d394107e"
+        ]
+    }
+]

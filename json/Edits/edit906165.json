@@ -1,0 +1,118 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "",
+                "Type": 3558941,
+                "Children": [
+                    [
+                        {
+                            "Label": "",
+                            "Type": 93832333,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": -934396624,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "",
+                                                    "Type": 3127797,
+                                                    "Children": [
+                                                        [
+                                                            {
+                                                                "Label": "removeStatus",
+                                                                "Type": 3373707,
+                                                                "Children": [
+                                                                    
+                                                                ]
+                                                            }
+                                                        ]
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "",
+                "Type": 3558941,
+                "Children": [
+                    [
+                        {
+                            "Label": "",
+                            "Type": 93832333,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": 110339814,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "",
+                                                    "Type": 3127797,
+                                                    "Children": [
+                                                        [
+                                                            {
+                                                                "Label": "",
+                                                                "Type": 3045982,
+                                                                "Children": [
+                                                                    [
+                                                                        {
+                                                                            "Label": "",
+                                                                            "Type": -40060704,
+                                                                            "Children": [
+                                                                                
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    [
+                                                                        {
+                                                                            "Label": "IndexOutOfRangeException",
+                                                                            "Type": 3373707,
+                                                                            "Children": [
+                                                                                
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                ]
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "Label": "new",
+                                                                "Type": -500553564,
+                                                                "Children": [
+                                                                    
+                                                                ]
+                                                            }
+                                                        ]
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "Left": 190,
+        "Right": 372,
+        "Commit id's": [
+            "f657ff559ed0950ae7b712f5d56e1224d394107e",
+            "045ef0f6b030e274ee17fdee1c2c97eae4b5816f"
+        ]
+    }
+]

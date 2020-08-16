@@ -1,0 +1,133 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "",
+                "Type": 3127797,
+                "Children": [
+                    [
+                        {
+                            "Label": "?",
+                            "Type": 17200,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "?",
+                            "Type": 27200,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "",
+                            "Type": 3373707,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "Next",
+                                        "Type": 3373707,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": ".",
+                                        "Type": -500553564,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": "?",
+                                        "Type": 17200,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "",
+                "Type": 3127797,
+                "Children": [
+                    [
+                        {
+                            "Label": "?",
+                            "Type": 17200,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "=",
+                            "Type": -500553564,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "",
+                            "Type": 3373707,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "Next",
+                                        "Type": 3373707,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": ".",
+                                        "Type": -500553564,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": "?",
+                                        "Type": 17200,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "Left": 433,
+        "Right": 911713,
+        "Commit id's": [
+            "045ef0f6b030e274ee17fdee1c2c97eae4b5816f",
+            "f657ff559ed0950ae7b712f5d56e1224d394107e",
+            "045ef0f6b030e274ee17fdee1c2c97eae4b5816f"
+        ]
+    }
+]

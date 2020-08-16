@@ -1,0 +1,48 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "listOfNumbers",
+                "Type": 3373707,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "listOfStrings",
+                "Type": 3373707,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "Left": 471236,
+        "Right": 749,
+        "Commit id's": [
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92"
+        ]
+    }
+]

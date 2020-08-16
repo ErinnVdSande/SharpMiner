@@ -1,0 +1,76 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "",
+                "Type": -40060704,
+                "Children": [
+                    [
+                        {
+                            "Label": "",
+                            "Type": -1589682499,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": 3127797,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "?",
+                                                    "Type": 17200,
+                                                    "Children": [
+                                                        
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "",
+                "Type": -40060704,
+                "Children": [
+                    [
+                        {
+                            "Label": "",
+                            "Type": -1589682499,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": 3127797,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "2",
+                                                    "Type": 182460591,
+                                                    "Children": [
+                                                        
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "Left": 253,
+        "Right": 241,
+        "Commit id's": [
+            "f657ff559ed0950ae7b712f5d56e1224d394107e",
+            "f657ff559ed0950ae7b712f5d56e1224d394107e"
+        ]
+    }
+]

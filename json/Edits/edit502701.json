@@ -1,0 +1,46 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "",
+                "Type": 3127797,
+                "Children": [
+                    [
+                        {
+                            "Label": "?",
+                            "Type": 17200,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "",
+                "Type": 3127797,
+                "Children": [
+                    [
+                        {
+                            "Label": "?",
+                            "Type": 27200,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "Left": 155,
+        "Right": 500816,
+        "Commit id's": [
+            "f657ff559ed0950ae7b712f5d56e1224d394107e",
+            "f657ff559ed0950ae7b712f5d56e1224d394107e",
+            "f657ff559ed0950ae7b712f5d56e1224d394107e",
+            "045ef0f6b030e274ee17fdee1c2c97eae4b5816f"
+        ]
+    }
+]

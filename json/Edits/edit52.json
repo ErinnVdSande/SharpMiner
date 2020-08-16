@@ -1,0 +1,68 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "",
+                "Type": 94742904,
+                "Children": [
+                    [
+                        {
+                            "Label": "",
+                            "Type": 93832333,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "DLList",
+                            "Type": 3373707,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "",
+                "Type": 94742904,
+                "Children": [
+                    [
+                        {
+                            "Label": "",
+                            "Type": 93832333,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "DLList",
+                            "Type": 3373707,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "public",
+                            "Type": -1694614082,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "Commit id's": [
+            "280e61fb148e2bfb2d2f2b27eccb9e739ed8b291"
+        ]
+    }
+]

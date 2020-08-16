@@ -1,0 +1,108 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "",
+                "Type": 3079338,
+                "Children": [
+                    [
+                        {
+                            "Label": "listNode",
+                            "Type": 3373707,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "",
+                            "Type": 3575610,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "",
+                                        "Type": 3373707,
+                                        "Children": [
+                                            [
+                                                {
+                                                    "Label": "",
+                                                    "Type": -40060704,
+                                                    "Children": [
+                                                        [
+                                                            {
+                                                                "Label": "",
+                                                                "Type": -1589682499,
+                                                                "Children": [
+                                                                    [
+                                                                        {
+                                                                            "Label": "T",
+                                                                            "Type": 3373707,
+                                                                            "Children": [
+                                                                                
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                ]
+                                                            }
+                                                        ]
+                                                    ]
+                                                }
+                                            ],
+                                            [
+                                                {
+                                                    "Label": "DLListNode",
+                                                    "Type": 3373707,
+                                                    "Children": [
+                                                        
+                                                    ]
+                                                }
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "",
+                "Type": 3079338,
+                "Children": [
+                    [
+                        {
+                            "Label": "index",
+                            "Type": 3373707,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "",
+                            "Type": 3575610,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": "int",
+                                        "Type": 3373707,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "Commit id's": [
+            "045ef0f6b030e274ee17fdee1c2c97eae4b5816f"
+        ]
+    }
+]

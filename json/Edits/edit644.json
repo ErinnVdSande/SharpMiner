@@ -1,0 +1,25 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "/// Getter function that returns the count of the list",
+                "Type": 950398559,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "/// Instance variables",
+                "Type": 950398559,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "Commit id's": [
+            "302f5c21acbb79d4e0692c57792a88e6b0718e36"
+        ]
+    }
+]

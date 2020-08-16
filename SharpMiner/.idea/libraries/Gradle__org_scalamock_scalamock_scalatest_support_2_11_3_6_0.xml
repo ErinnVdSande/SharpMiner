@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scalamock:scalamock-scalatest-support_2.11:3.6.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalamock/scalamock-scalatest-support_2.11/3.6.0/b1881122b2410e5a7e211c631e8fa3a9c31673b7/scalamock-scalatest-support_2.11-3.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalamock/scalamock-scalatest-support_2.11/3.6.0/de3beeb9165e5d5174ef627bc97c925270dab5b1/scalamock-scalatest-support_2.11-3.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

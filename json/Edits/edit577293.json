@@ -1,0 +1,63 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "",
+                "Type": 3127797,
+                "Children": [
+                    [
+                        {
+                            "Label": "count",
+                            "Type": 3373707,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "++",
+                            "Type": -500553564,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "",
+                "Type": 3127797,
+                "Children": [
+                    [
+                        {
+                            "Label": "Count",
+                            "Type": 3373707,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "++",
+                            "Type": -500553564,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "Left": 575228,
+        "Right": 587,
+        "Commit id's": [
+            "302f5c21acbb79d4e0692c57792a88e6b0718e36",
+            "302f5c21acbb79d4e0692c57792a88e6b0718e36",
+            "302f5c21acbb79d4e0692c57792a88e6b0718e36"
+        ]
+    }
+]

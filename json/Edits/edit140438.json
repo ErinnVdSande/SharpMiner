@@ -1,0 +1,28 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "null",
+                "Type": 182460591,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "0",
+                "Type": 182460591,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "Left": 203,
+        "Right": 910,
+        "Commit id's": [
+            "f657ff559ed0950ae7b712f5d56e1224d394107e",
+            "7848ccc4ae03633b8abb07b62e05dda2daefeffc"
+        ]
+    }
+]

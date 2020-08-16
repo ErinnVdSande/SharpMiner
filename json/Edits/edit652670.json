@@ -1,0 +1,81 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "",
+                "Type": 3373707,
+                "Children": [
+                    [
+                        {
+                            "Label": "?",
+                            "Type": 17200,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": ".",
+                            "Type": -500553564,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "DummyTests",
+                            "Type": 3373707,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "",
+                "Type": 3373707,
+                "Children": [
+                    [
+                        {
+                            "Label": "?",
+                            "Type": 17200,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": ".",
+                            "Type": -500553564,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "DummyTests",
+                            "Type": 3373707,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "Left": 650313,
+        "Right": 322,
+        "Commit id's": [
+            "41bdebe835c97bf5486cbd8c2b953713da361485",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "f657ff559ed0950ae7b712f5d56e1224d394107e"
+        ]
+    }
+]

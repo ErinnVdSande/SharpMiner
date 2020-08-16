@@ -1,0 +1,31 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "count",
+                "Type": 3373707,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "Count",
+                "Type": 3373707,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "Left": 203237,
+        "Right": 612,
+        "Commit id's": [
+            "302f5c21acbb79d4e0692c57792a88e6b0718e36",
+            "302f5c21acbb79d4e0692c57792a88e6b0718e36",
+            "302f5c21acbb79d4e0692c57792a88e6b0718e36",
+            "302f5c21acbb79d4e0692c57792a88e6b0718e36",
+            "302f5c21acbb79d4e0692c57792a88e6b0718e36"
+        ]
+    }
+]

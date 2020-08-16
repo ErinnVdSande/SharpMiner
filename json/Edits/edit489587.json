@@ -1,0 +1,44 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "",
+                "Type": 111582340,
+                "Children": [
+                    [
+                        {
+                            "Label": "DataStrcutres",
+                            "Type": 3373707,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "",
+                "Type": 111582340,
+                "Children": [
+                    [
+                        {
+                            "Label": "DataStructures",
+                            "Type": 3373707,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "Left": 46,
+        "Right": 48,
+        "Commit id's": [
+            "280e61fb148e2bfb2d2f2b27eccb9e739ed8b291",
+            "280e61fb148e2bfb2d2f2b27eccb9e739ed8b291"
+        ]
+    }
+]

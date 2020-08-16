@@ -1,0 +1,83 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "",
+                "Type": 3373707,
+                "Children": [
+                    [
+                        {
+                            "Label": "?",
+                            "Type": 27200,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": ".",
+                            "Type": -500553564,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "?",
+                            "Type": 17200,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "",
+                "Type": 3373707,
+                "Children": [
+                    [
+                        {
+                            "Label": "?",
+                            "Type": 27200,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": ".",
+                            "Type": -500553564,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "Label": "?",
+                            "Type": 17200,
+                            "Children": [
+                                
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "Left": 652670,
+        "Right": 655959,
+        "Commit id's": [
+            "41bdebe835c97bf5486cbd8c2b953713da361485",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92",
+            "f657ff559ed0950ae7b712f5d56e1224d394107e",
+            "0a99e636ad70bf3626d6c1421ba677efcb126e39",
+            "0a99e636ad70bf3626d6c1421ba677efcb126e39"
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "\"Removed 3rd: \"",
+                "Type": 182460591,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "\"Removed 3rd:\\r\\n\"",
+                "Type": 182460591,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "Left": 562,
+        "Right": 448,
+        "Commit id's": [
+            "045ef0f6b030e274ee17fdee1c2c97eae4b5816f",
+            "045ef0f6b030e274ee17fdee1c2c97eae4b5816f"
+        ]
+    }
+]

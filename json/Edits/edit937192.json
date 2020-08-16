@@ -1,0 +1,132 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "",
+                "Type": -934396624,
+                "Children": [
+                    [
+                        {
+                            "Label": "",
+                            "Type": 3127797,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": ")",
+                                        "Type": -500553564,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": "0",
+                                        "Type": 182460591,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": "==",
+                                        "Type": -500553564,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": "count",
+                                        "Type": 3373707,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": "(",
+                                        "Type": -500553564,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "",
+                "Type": -934396624,
+                "Children": [
+                    [
+                        {
+                            "Label": "",
+                            "Type": 3127797,
+                            "Children": [
+                                [
+                                    {
+                                        "Label": ")",
+                                        "Type": -500553564,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": "0",
+                                        "Type": 182460591,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": "==",
+                                        "Type": -500553564,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": "Count",
+                                        "Type": 3373707,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Label": "(",
+                                        "Type": -500553564,
+                                        "Children": [
+                                            
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ],
+        "Left": 595,
+        "Right": 729,
+        "Commit id's": [
+            "302f5c21acbb79d4e0692c57792a88e6b0718e36",
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92"
+        ]
+    }
+]

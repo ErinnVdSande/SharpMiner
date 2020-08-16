@@ -1,0 +1,25 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "\"..\\DataStrcutres\\DataStrcutres.csproj\"",
+                "Type": 182460591,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "\"..\\DataStrcutres\\DataStructures.csproj\"",
+                "Type": 182460591,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "Commit id's": [
+            "4fa48350a25670d49d57b2790a843e66687cbf1f"
+        ]
+    }
+]

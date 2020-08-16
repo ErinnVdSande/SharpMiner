@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scala-lang.modules:scala-parallel-collections_2.13:0.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parallel-collections_2.13/0.2.0/1e15f88fab20bbb3b2a261423aea8372cb9a6cf3/scala-parallel-collections_2.13-0.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parallel-collections_2.13/0.2.0/2545d43513a99a207cefc1d248817b287f022580/scala-parallel-collections_2.13-0.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

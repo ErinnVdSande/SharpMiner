@@ -1,0 +1,25 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "/// Getter function that returns the count of the list",
+                "Type": 950398559,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "/// CONSTRUCTOR",
+                "Type": 950398559,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "Commit id's": [
+            "1c124a786afa7cfee5c7df5a995dc4f545635e92"
+        ]
+    }
+]

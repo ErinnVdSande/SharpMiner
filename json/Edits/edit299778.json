@@ -1,0 +1,32 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "Remove",
+                "Type": 3373707,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "RemoveAt",
+                "Type": 3373707,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "Left": 296960,
+        "Right": 218,
+        "Commit id's": [
+            "f657ff559ed0950ae7b712f5d56e1224d394107e",
+            "f657ff559ed0950ae7b712f5d56e1224d394107e",
+            "f657ff559ed0950ae7b712f5d56e1224d394107e",
+            "f657ff559ed0950ae7b712f5d56e1224d394107e",
+            "f657ff559ed0950ae7b712f5d56e1224d394107e",
+            "f657ff559ed0950ae7b712f5d56e1224d394107e"
+        ]
+    }
+]

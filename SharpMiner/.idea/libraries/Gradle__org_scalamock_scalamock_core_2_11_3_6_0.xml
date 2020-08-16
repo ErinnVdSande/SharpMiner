@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scalamock:scalamock-core_2.11:3.6.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalamock/scalamock-core_2.11/3.6.0/9960233077aa495c357a35b839b5b50fcc4eee96/scalamock-core_2.11-3.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalamock/scalamock-core_2.11/3.6.0/f12c1bd73d6b5075323ace3a3a19997f278db86b/scalamock-core_2.11-3.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

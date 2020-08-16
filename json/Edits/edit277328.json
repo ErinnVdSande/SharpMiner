@@ -1,0 +1,28 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "firstNode",
+                "Type": 3373707,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "index",
+                "Type": 3373707,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "Left": 131,
+        "Right": 341,
+        "Commit id's": [
+            "f657ff559ed0950ae7b712f5d56e1224d394107e",
+            "045ef0f6b030e274ee17fdee1c2c97eae4b5816f"
+        ]
+    }
+]

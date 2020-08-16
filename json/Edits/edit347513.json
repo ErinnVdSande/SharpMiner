@@ -1,0 +1,28 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "///<typeparam name=\"T\"></typeparam>",
+                "Type": 950398559,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "///<typeparam name=\"T\">Type</typeparam>",
+                "Type": 950398559,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "Left": 393,
+        "Right": 382,
+        "Commit id's": [
+            "045ef0f6b030e274ee17fdee1c2c97eae4b5816f",
+            "045ef0f6b030e274ee17fdee1c2c97eae4b5816f"
+        ]
+    }
+]

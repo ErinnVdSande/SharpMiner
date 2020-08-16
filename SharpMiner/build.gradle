@@ -1,0 +1,81 @@
+group 'be.vub.bachelorproef'
+version '1.0-SNAPSHOT'
+
+buildscript {
+    repositories {
+        mavenCentral()
+        maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+        maven { url "https://plugins.gradle.org/m2/" }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.2.3'
+        classpath "com.github.maiflai:gradle-scalatest:0.10"
+    }
+}
+
+
+allprojects {
+    version = '1.0'
+
+    ext {
+        appName = "sharpminer"
+        mainClass = "be.vub.HelloWorld"
+    }
+
+    repositories {
+        mavenCentral()
+        maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+        maven { url "https://oss.sonatype.org/content/repositories/releases/" }
+    }
+}
+
+apply plugin: "scala"
+apply plugin: 'application'
+
+application {
+    mainClassName = "be.vub.HelloWorld"
+}
+
+dependencies {
+    compile 'org.scala-lang:scala-library:2.13.2'
+
+    testCompile 'org.scalatest:scalatest_2.11:3.0.0'
+    testCompile 'org.scalamock:scalamock-scalatest-support_2.11:3.6.0'
+    testCompile 'junit:junit:4.12'
+
+    // https://mvnrepository.com/artifact/org.slf4j/slf4j-log4j12
+    testCompile group: 'org.slf4j', name: 'slf4j-log4j12', version: '2.0.0-alpha1'
+    compile group: 'org.slf4j', name: 'slf4j-api', version: '2.0.0-alpha1'
+
+    compile group: 'com.github.gumtreediff', name: 'client', version: '2.1.2'
+    compile group: 'com.github.gumtreediff', name: 'core', version: '2.1.2'
+    compile group: 'com.github.gumtreediff', name: 'gen.srcml', version: '2.1.2'
+
+    compile group: 'org.eclipse.jgit', name: 'org.eclipse.jgit', version: '5.6.0.201912101111-r'
+
+    // https://mvnrepository.com/artifact/com.lihaoyi/ujson
+    compile group: 'com.lihaoyi', name: 'ujson_2.13', version: '1.1.0'
+    compile group: 'org.scala-lang.modules', name: 'scala-parallel-collections_2.13', version: '0.2.0'
+}
+/*plugins {
+    id 'java'
+}
+
+group 'be.vub.bachelorproef'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    maven { url "https://plugins.gradle.org/m2/" }
+}
+
+dependencies {
+    compile 'org.scala-lang:scala-library:2.11.8'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    // https://mvnrepository.com/artifact/com.github.gumtreediff/client
+    compile group: 'com.github.gumtreediff', name: 'client', version: '2.1.2'
+}
+ apply plugin: "scala"
+ */

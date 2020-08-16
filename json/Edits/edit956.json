@@ -1,0 +1,25 @@
+[
+    {
+        "Before Tree": [
+            {
+                "Label": "// Move the currentNode reference to the specified index",
+                "Type": 950398559,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "After Tree": [
+            {
+                "Label": "// Decide from which reference to traverse the list, and then move the currentNode reference to the index",
+                "Type": 950398559,
+                "Children": [
+                    
+                ]
+            }
+        ],
+        "Commit id's": [
+            "a92ac46566885bc59b1e173d795539197ee83a1e"
+        ]
+    }
+]
