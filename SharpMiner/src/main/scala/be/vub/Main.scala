@@ -1,12 +1,13 @@
 package be.vub
 
-object HelloWorld {
+object Main {
   def main(args: Array[String]): Unit = {
     if(args.length == 3){
       println("Start")
       println("Get commits: ")
       val edits = new Repository(args(0)).getCommits("master")
       println("V")
+      println(edits.flatMap(_.getAllChangedFiles).length)
       println("Amount of edits : " + edits.length)
       println("start clustering: ")
       val cluster = new HierarchicalCluster(edits.take(args(1).toInt).flatMap(_.getAllConcreteEdits))
