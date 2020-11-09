@@ -1,6 +1,11 @@
 # SharpMiner
 A tool for mining edit-patterns from C# code.
 
+
+# Prerequisites
+
+    You have to install srcML if you want to diff C++ and C# code
+
 Usage:
  - PATH Amount-of-commits MODE
  - PATH MODE
